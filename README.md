@@ -33,3 +33,4 @@ DONE!!!
 
 ## Note
 - Uses M2 screws
+- CAD URL: https://cad.onshape.com/documents/52c8cac9818d188b0d83dccb/w/326c1203be3ba0b6302d81fb/e/90ae4f0d030c3e2e50035fcf
