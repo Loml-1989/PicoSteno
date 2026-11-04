@@ -3,7 +3,7 @@ title: "PicoSteno"
 github: "https://github.com/Loml-1989/PicoSteno"
 description: "This is a steno keyboard. I wanted to try it out but they are expensive so I decided to make it :\u003e"
 created_at: "2026-10-29"
-total_time: "5h"
+total_time: "5h 12m"
 ---
 
 # October 29, 2026: Completed the schematics
@@ -40,3 +40,11 @@ I have made a case for the board. I tired adding top lid but I just couldn't do 
 
 **Total time spent: 2h 18m**
 
+# November 4, 2026: Changed few thing.
+<!-- fabricate:entry 2137 -->
+
+I added the firmware code in the firmware dir. Also the reviewer said tis a tier 4 project not 3 so I changed the switches to Geteron Strawberry Jelly switches as if I kept the Kailh Choc then it would go above the limit so I changed that and updated the BOM asw.
+
+![](https://fabricate.hackclub-assets.com/de2bb7fe95d35e8f177bc291068ff8391e1fa41eec480c2d0a7dcbba992d4f1e/image-png/image.png)
+
+**Total time spent: 12m**
