@@ -1,6 +1,6 @@
 # PicoSteno
 ![Banner](assets/banner.png)
-A custom, 24-key stenotype keyboard powered by a raspberry pi pico. This board has direct pin wiring (meaning zero diodes) and low-profile Kailh Choc v1 switches (which are hot swappable) for an good stenography experience.
+A custom, 24-key stenotype keyboard powered by a raspberry pi pico. This board has direct pin wiring (meaning zero diodes) and Getron Strawberry Jelly switches (which are hot swappable) for an good stenography experience.
 
 ## Why?
 I build this because I really wanted to try out steno keyboards but they are quite pricey so I couldn't buy em so I decided to make my very own full size steno keyboard.
@@ -20,7 +20,7 @@ I build this because I really wanted to try out steno keyboards but they are qui
 
 ## Features
 - **Microcontroller:** Raspberry pi pico
-- **Switches:** Kailh Choc v1 low profile (Hot swappable)
+- **Switches:** Getron Strawberry Jelly (Hot swappable)
 - **Status Indicator:** WS2812B 2020 RGB LED
 - **Firmware:** QMK (using the `geminipr` protocol)
 
